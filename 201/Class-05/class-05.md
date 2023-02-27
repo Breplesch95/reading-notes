@@ -1,4 +1,4 @@
-<h1>>Images in HTML</h2>
+<h1>Images in HTML</h2>
 
 **How do we put an image on a webpage?**
 In order to put a simple image on a web page, we use the < img > element. This is a void element (meaning, it cannot have any child content and cannot have an end tag) that requires two attributes to be useful: src and alt. The src attribute contains a URL pointing to the image you want to embed in the page. As with the href attribute for <a> elements, the src attribute can be a relative URL or an absolute URL. Without a src attribute, an img element has no image to load.
